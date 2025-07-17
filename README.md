@@ -19,16 +19,16 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Snake animation](https://github.com/Jyotirmaycodehub/Jyotirmaycodehub/blob/output/github-contribution-grid-snake.svg)
+![Jyotirmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotirmaycodehub&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jyotirmaycodehub&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 ![Contributions](https://img.shields.io/badge/Contributions-Actively%20Coding-brightgreen?style=for-the-badge)
-
-
+![Snake animation](https://github.com/Jyotirmaycodehub/Jyotirmaycodehub/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotirmaycodehub&layout=compact&theme=radical)
+![Daily Code](https://img.shields.io/badge/Coding%20Streak-I%20Ship%20Code%20Often-blueviolet?style=for-the-badge)
 
 ---
 
