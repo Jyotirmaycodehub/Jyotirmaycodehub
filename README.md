@@ -26,8 +26,7 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Jyotirmaycodehub&theme=radical.svg)
-
+<img src="https://streak-stats.demolab.com?user=Jyotirmaycodehub&theme=radical" alt="GitHub Streak"/>
 
 ---
 
