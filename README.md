@@ -1,11 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7B2&width=435&lines=Hello!+I'm+Jyotirmay;Data+Science+Enthusiast;Python+Developer)](https://git.io/typing-svg)
-
-# 👋 Hi, I'm Jyotirmay!
-
-
-🎓 **Data Science Enthusiast | Data Analyst | Visulization Explorer**  
-💡 Passionate about solving problems with code and exploring the world of AI & ML.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7B2&width=435&lines=Hello!+I'm+Jyotirmay;Data+Science+Enthusiast;Python+Developer;Visulization+Explorer;💡+Passionate+about+solving+problems+with+code+and+exploring+the+world+of+AI+&+ML.)](https://git.io/typing-svg)
 
 ---
 
