@@ -1,20 +1,20 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotirmaycodehub&show_icons=true&theme=radical)
 # 👋 Hi there, I'm Jyotirmay!
 
-🎓 **Data Science Enthusiast | Python Developer | DSA Explorer**  
+🎓 **Data Science Enthusiast | Data Analyst | Visulization Explorer**  
 💡 Passionate about solving problems with code and exploring the world of AI & ML.
 
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Python, Data Science, and DSA**  
+- 🌱 I’m currently learning **Python, Data Science, and Visualization**  
 - 👯 I’m looking to collaborate on **Open Source Data Science Projects**  
 - 💬 Ask me about **Python, Data Analysis, SQL, or GitHub tricks!**  
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python 🐍 | SQL | JavaScript  
+**Languages:** Python 🐍 | SQL 
 **Libraries:** Pandas | NumPy | Matplotlib | Scikit-Learn  
 **Tools:** Jupyter | Git | VS Code | Excel  
 
@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 ![Jyotirmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotirmaycodehub&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirmaycodehubE&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotirmaycodehub&layout=compact&theme=radical)
 
 ---
 
