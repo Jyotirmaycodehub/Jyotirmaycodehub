@@ -25,8 +25,8 @@
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Jyotirmaycodehub&theme=tokyonight)
+## 🔥 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jyotirmaycodehub&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
