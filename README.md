@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Python, Data Science, and Visualization**  
+- 🌱 I’m currently learning **Python, SQL, and Visualization**  
 - 👯 I’m looking to collaborate on **Open Source Data Science Projects**  
 - 💬 Ask me about **Python, Data Analysis, SQL, or GitHub tricks!**  
 
@@ -17,20 +17,6 @@
 **Tools:** Jupyter | Git | VS Code | Excel  
 
 ---
-
-## 📊 GitHub Stats
-![Jyotirmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotirmaycodehub&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotirmaycodehub&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jyotirmaycodehub&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotirmay-das-top)  
 
