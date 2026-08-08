@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python 🐍 | SQL 
+**Languages:** Python 🐍 | SQL |
 **Libraries:** Pandas | NumPy | Matplotlib | Scikit-Learn  
 **Tools:** Jupyter | Git | VS Code | Excel  
 
