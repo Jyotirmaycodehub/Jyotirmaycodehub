@@ -3,18 +3,48 @@
 
 💡 Passionate about solving problems with code and exploring the world of AI & ML
 ---
+# 👋 Hi, I'm a Frontend Developer
+
+💻 Passionate about building responsive, user-friendly, and interactive web applications. I enjoy turning ideas into clean, functional, and visually appealing digital experiences.
+
+---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Python, SQL, and Visualization**  
-- 👯 I’m looking to collaborate on **Open Source Data Science Projects**  
-- 💬 Ask me about **Python, Data Analysis, SQL, or GitHub tricks!**  
+
+- 🌱 Currently learning and improving my skills in **Frontend Development and React.js**
+- 💻 Interested in building responsive and modern web applications
+- 👯 Looking to collaborate on **Frontend Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Git, GitHub, and SQL**
+- 🎯 My goal is to become a skilled Frontend Developer and build impactful web experiences.
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python 🐍 | SQL |
-**Libraries:** Pandas | NumPy | Matplotlib | Scikit-Learn  
-**Tools:** Jupyter | Git | VS Code | Excel  
+
+**Frontend Development:**  
+HTML5 | CSS3 | JavaScript | React.js
+
+**Database:**  
+SQL
+
+**Tools & Technologies:**  
+Git | GitHub | VS Code
+
+---
+
+## 📌 Currently Focusing On
+
+- Strengthening JavaScript fundamentals
+- Building projects with React.js
+- Improving responsive web design
+- Writing clean and maintainable code
+- Learning modern frontend development practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating, and connecting with fellow developers. Let's build something great together! 🚀
 
 ---
 ## 🌐 Connect With Me
